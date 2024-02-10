@@ -139,6 +139,13 @@ You can extend this concept by fine-tuning your selected models using a similar 
 
 **Improvement in My Experiment**: 
 In your experimental setup, you plan to expand upon this idea by incorporating sentiment from various forums instead of just one social media platform. Furthermore, you will assess the comparative performance of Baichuan2, ChatGLM3, and Qwen after fine-tuning them for the same prediction task, offering insights into which model best captures and utilizes sentiment data for accurate price predictions.
+
+- Flow chart
+
+<img src="Literature.png" alt="Flow chart">
+
+Source:Whimsical
+
 ```
 @article{parekh2022dl,
   title={DL-GuesS: Deep learning and sentiment analysis-based cryptocurrency price prediction},
