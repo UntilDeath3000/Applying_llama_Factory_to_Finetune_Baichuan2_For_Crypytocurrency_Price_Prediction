@@ -20,3 +20,9 @@
 10. Training process: The overall training process involves several stages, including pre-training, supervised fine-tuning, reward modeling, and reinforcement learning. Each stage builds upon the previous one to create a robust and effective model.
 
 To assess the final results of our training experiments, we use various evaluation metrics such as BLEU and Rouge scores. We also analyze the generated text to ensure it meets our desired criteria. Overall, this document provides a detailed guide for conducting fine-tuning experiments on training models, including specific methods and tools used throughout the process.
+
+- Flow chart
+
+<img src="Methodology.png" alt="Flow chart">
+
+Source:Whimsical
