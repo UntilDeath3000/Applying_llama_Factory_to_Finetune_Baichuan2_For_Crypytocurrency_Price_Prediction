@@ -98,7 +98,7 @@ Qwen follows standard practices for modern language models and it could be desig
 3. **Efficiency**: Depending on its design, Qwen have been optimized for computational efficiency, either through parameter reduction techniques, model compression, or efficient training algorithms, making it suitable for deployment in resource-constrained environments.
 4. **Multilingual Support**: Qwen includes multilingual capabilities, allowing them to understand and generate text in multiple languages. Qwen offers similar advantages if it has been pre-trained with diverse linguistic data.
 ---
-**Introduction to the Three Related Experiments**
+# Introduction to the Three Related Experiments
 
 1. **LoRA: Low-Rank Adaptation of Large Language Models**
    - This research by Mike Lewis et al. (2021) introduces LoRA, a parameter-efficient technique for fine-tuning large language models. The study explores how this method reduces the number of parameters that need to be updated while retaining model performance. It is relevant to Llama Factory's potential techniques as it focuses on efficient adaptation of large models for different tasks without significant computational overhead.
