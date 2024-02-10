@@ -1,0 +1,2 @@
+# Applying_llama_Factory_to_Finetune_Baichuan2_For_Crypytocurrency_Price_Prediction
+This is Jiaolun's project guided by professor Luyao Zhang.
