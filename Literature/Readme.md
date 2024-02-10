@@ -1,4 +1,4 @@
-**Research Overview**
+# Research Overview
 
 This study aims to investigate and compare the performance of various pre-trained language models, namely Baichuan2, ChatGLM3, and Qwen, in a financial analysis context, specifically for predicting virtual currency price trends. Leveraging the fine-tuning techniques offered by Llama Factory, an open-source platform, we propose to adapt these models to effectively process and interpret textual data extracted from forums discussing cryptocurrency markets.
 
